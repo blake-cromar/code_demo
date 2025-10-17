@@ -45,6 +45,8 @@ python3 src/standard_deviation.py
 
 ![alt text](output_example.png)
 
+## Analysis of the Data Output
+This type of output would be great for a situation where you are trying to estimate a majority of height differences for a business product. For example, consider a situation where you are building race cars and one constraint of the system is the height of the driver. You could use these statistics to determine that `99.7%`of men will have a height between `157.6` and `194.0` centimeters (see output above). You could build the car based on that range and then place a disclaimer that the cockpit of these cars only account for men of this range of height. 
 
 ## File Structure
 ```
