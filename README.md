@@ -1,7 +1,17 @@
 ![Python version](https://img.shields.io/badge/python-3.9.6-blue)
 
-# Code Demo
-The purpose of this repo is to showcase Blake Cromar's skills as a software developer. Generally, this will be used for job interviews. Currently, there is only one demo. In this demo the code calculates the standard deviation of an array of data.
+# Calculate Standard Deviation
+The purpose of this repo is to showcase Blake Cromar's skills as a software developer. In this demo the code calculates the standard deviation of an array of data. The goal was to use `Python` to calculate the standard deviation of male height data and analyze it. While there are `Python` packages that can do this simply, this code base attempts to do this without the help of any external packages.
+
+The equation for standard deviation (sample) is as follows:
+
+s = √[ Σ(xᵢ − x̄)² / (n − 1) ]
+
+Where:
+- s = sample standard deviation
+- xᵢ = each data point
+- x̄ = sample mean
+- n = number of data points
 
 ## Table of Contents
 - Contributing
