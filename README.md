@@ -1,3 +1,5 @@
+![Python version](https://img.shields.io/badge/python-3.9.6-blue)
+
 # Code Demo
 The purpose of this repo is to showcase Blake Cromar's skills as a software developer. Generally, this will be used for job interviews.
 
