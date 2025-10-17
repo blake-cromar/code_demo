@@ -42,9 +42,17 @@ CODE_DEMO/                      | Main folder
 ├─ .gitignore                   | .gitignore file used to prevent types of files from being pushed to repo
 ├─ README.md                    | Used to provide an over view of this code
 ├─ output_example.png           | An example of the desired output
+├─ gitflow_example.svg          | An example of the branching model used for this repo
 └─ src/                         | Contains the main source code
    └─ standard_deviation.py     | Contains the Python programming example
 ```
+
+## Git Branching Model
+This codebase is utilizing a `gitflow` branching model. In my implementation I've chosen to delete feature branches after they have been merged to the `development` branch. More about this branching strategy can be found [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
+
+![alt text](gitflow_example.svg)
+
+
 ## Contributing
 Blake Cromar, Software Engineer, blake.cromar@icloud.com
 
