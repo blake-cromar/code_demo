@@ -14,8 +14,13 @@ Where:
 - n = number of data points
 
 ## Table of Contents
-- Contributing
-- License
+- [How to Use](#how-to-use)
+- [Example Output](#example-output)
+- [Analysis of the Data Output](#analysis-of-the-data-output)
+- [File Structure](#file-structure)
+- [Git Branching Model](#git-branching-model)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## How to Use
 
