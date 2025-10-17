@@ -5,6 +5,14 @@ The purpose of this repo is to showcase Blake Cromar's skills as a software deve
 - Contributing
 - License
 
+## File Structure
+```
+CODE_DEMO/                      | Main folder
+├─ .gitignore                   | .gitignore file used to prevent types of files from being pushed to repo
+├─ README.md                    | Used to provide an over view of this code
+└─ src/                         | Contains the main source code
+   └─ standard_deviation.py     | Contains the Python programming example
+```
 ## Contributing
 Blake Cromar, Software Engineer, blake.cromar@icloud.com
 
