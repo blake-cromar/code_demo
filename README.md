@@ -7,11 +7,41 @@ The purpose of this repo is to showcase Blake Cromar's skills as a software deve
 - Contributing
 - License
 
+## How to Use
+
+1. Navigate to the folder where the repo will be stored
+```
+cd /path/to/your/desired/folder
+```
+
+2. Clone the repo into the local directory you chose in the pervious step
+
+```
+git clone https://github.com/blake-cromar/code_demo.git
+```
+
+3. Open the folder of the project
+
+```
+cd code_demo
+```
+
+4. Run the script
+```
+python3 src/standard_deviation.py 
+```
+
+## Example Output
+
+![alt text](output_example.png)
+
+
 ## File Structure
 ```
 CODE_DEMO/                      | Main folder
 ├─ .gitignore                   | .gitignore file used to prevent types of files from being pushed to repo
 ├─ README.md                    | Used to provide an over view of this code
+├─ output_example.png           | An example of the desired output
 └─ src/                         | Contains the main source code
    └─ standard_deviation.py     | Contains the Python programming example
 ```
